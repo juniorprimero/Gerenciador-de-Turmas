@@ -25,6 +25,7 @@ namespace Gerenciador_de_Turmas.Classes
             this.nota1 = GerarNota();
             this.nota2 = GerarNota();
             this.nota3 = GerarNota();
+            
 
             VerificarFinais();
         }

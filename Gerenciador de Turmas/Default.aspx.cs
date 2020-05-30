@@ -26,5 +26,6 @@ namespace Gerenciador_de_Turmas
                 aupGridA.Update();
             }
         }
+
     }
 }
